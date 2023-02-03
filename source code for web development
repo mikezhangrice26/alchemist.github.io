@@ -60,7 +60,7 @@
               color: #444;
               text-decoration: none;
               text-transform: uppercase;
-              font-size: 24px;
+              font-size: 20px;
             }
             
             nav a:hover {
@@ -91,9 +91,10 @@
               <nav>
                 <ul>
                   <li><a href="#">Home</a></li>
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Pricing</a></li>
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="#">Committee</a></li>
+                  <li><a href="#">Activities</a></li>
+                  <li><a href="#">Honors</a></li>
+                  <li><a href="#">Mike</a></li>
                 </ul>
               </nav>
             </div>
@@ -120,23 +121,26 @@
             <p style="            margin-left: 15%;
             margin-right: 40%;
             width: 45%;">
-                During high school, I start to become interested in Chemistry, especially inorganic chemistry. 
-                As I learned more about college inorganic chemistry, I felt aroused by chemistry's subfield materals chemistry which drove me 
-                to apply to Rice University that is known for its Smalley-Curl Institute. 
+                During high school, I start to become interested in Chemistry, especially inorganic chemistry, as I was amazed by the delicate brace made
+                for my scoliosis rehabilitation. 
+                As I learned more about college inorganic chemistry, I felt aroused by inorganic chemistry's subfield materals chemistry which drove me 
+                to apply to Rice University which is known for its Smalley-Curl Institute. 
             </p>
             <p style="            margin-left: 40%;
             margin-right: 15%;
             width: 45%;
             text-align: right;">
 
-                Though starting out to be a chemistry researcher. I felt only physics could explain the inner logic of chemistry. Meanwhile, when I found difficulty disposing 
-                chemistry data in the lab and impressed by the language processing machine developed by Keda Xunfei during a visit, I realized the importance of 
-                computer science. Thus, I changed my focus from a chemistry student to a physics+compsci student. 
+                Though starting out to be a materials chemistry researcher, I felt physics could better explain the inner logic of chemistry and help me find source of scoliosis. Meanwhile, when I found difficulty disposing 
+                research data in the lab and impressed by the language processing machine developed by Keda Xunfei during a visit, I realized the importance of 
+                data science. Thus, I changed my focus from a chemistry student to a physics+datasci student. However, I would always contribute to 
+                the chemistry club as it marks one of my most memorable experience in terms of exploring natural sciences with friends of similar curiosity and 
+                promoting the love towards chemistry across the campus.
             </p>
             <p style="            margin-left: 15%;
             margin-right: 40%;
             width: 45%;">
-                Website contributed by Mike Zhang and Luke Liu
+                Webpage developed by <i> Mike Zhang</i> and designed by <i> Luke Liu</i>.
             </p>
         </Article>
     </body>
