@@ -1,8 +1,5 @@
-  $ npx serve
-    $ npm i -g serve
-  $ serve
-  $ serve build --single
-  $ serve -p 8080 
+theme: jekyll-theme-cayman
+
   <!DOCTYPE html>
 <html>
     <body style="background-color: aliceblue;"></body>
