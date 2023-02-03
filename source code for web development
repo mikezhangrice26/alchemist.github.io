@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+  $ npx serve
+    $ npm i -g serve
+  $ serve
+  $ serve build --single
+  $ serve -p 8080 
+  <!DOCTYPE html>
 <html>
     <body style="background-color: aliceblue;"></body>
         <style>
